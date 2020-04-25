@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>392707652960-5omvm01kfbimcngqtufi0i8sblfjnfvv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.392707652960-5omvm01kfbimcngqtufi0i8sblfjnfvv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAe0-BoDIcpa776-J7ELIc3Bt5GqJSV0bY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>392707652960</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kypper.Veciveci</string>
+	<key>PROJECT_ID</key>
+	<string>veci-veci</string>
+	<key>STORAGE_BUCKET</key>
+	<string>veci-veci.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:392707652960:ios:f36b5e80bec4fa7a947205</string>
+	<key>DATABASE_URL</key>
+	<string>https://veci-veci.firebaseio.com</string>
+</dict>
+</plist>

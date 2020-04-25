@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "392707652960",
+    "firebase_url": "https://veci-veci.firebaseio.com",
+    "project_id": "veci-veci",
+    "storage_bucket": "veci-veci.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392707652960:android:83817c77379d1e6f947205",
+        "android_client_info": {
+          "package_name": "com.veciveci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392707652960-7a56f5jiju9ri8buv1umopdoaeft9gpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.veciveci",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "392707652960-1l3sv4ke5k5ep1cutfop4e4aplpttr7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTvLpa4_9hdCKMl-ZL2CF8LXvDUIay-fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392707652960-1l3sv4ke5k5ep1cutfop4e4aplpttr7i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "392707652960-5omvm01kfbimcngqtufi0i8sblfjnfvv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kypper.Veciveci"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
