@@ -35,7 +35,8 @@ export async function startApp() {
 
   try {
     await login();
-    pushTabBasedApp();
+    pushStack(INTRO_SCREEN.name);
+    //pushTabBasedApp();
   } catch (e) {
     pushStack(INTRO_SCREEN.name);
     // pushTabBasedApp();

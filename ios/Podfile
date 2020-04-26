@@ -107,6 +107,8 @@ target 'Veciveci' do
 
   pod 'lottie-react-native', :path => '../node_modules/lottie-react-native'
 
+  pod 'react-native-viewpager', :path => '../node_modules/@react-native-community/viewpager'
+
   target 'VeciveciTests' do
     inherit! :complete
     # Pods for testing

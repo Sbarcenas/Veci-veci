@@ -4,7 +4,7 @@ import socketio from '@feathersjs/socketio-client';
 import auth from '@feathersjs/authentication-client';
 import {AsyncStorage} from 'react-native';
 
-const socket = io('https://api.fithub.com.co', {
+const socket = io('http://api.veciveci.com/', {
   transports: ['websocket'],
   forceNew: true,
 });

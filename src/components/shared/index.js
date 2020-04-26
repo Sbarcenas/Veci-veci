@@ -11,3 +11,7 @@ export {default as RoundedIcon} from './Button/RoundedIcon';
 export {default as RoundedImage} from './Image/RoundedImage';
 export {default as MenuItem} from './Cards/MenuItem';
 export {default as IconText} from './Text/IconText';
+export {default as StepPager} from './StepIndicator/index';
+export {default as StickyTabs} from './StickyTabs';
+export {default as StickyScroll} from './StickyTabs/StickyScroll';
+export {default as StickyViewPager} from './StickyTabs/StickyViewPager';

@@ -1,5 +1,5 @@
 import {createIconSetFromFontello} from 'react-native-vector-icons/index';
-import fontelloConfig from '../assets/fonts/appartaIcons/config.json';
+import fontelloConfig from '../assets/fonts/VeciveciIcons/config.json';
 const Icon = createIconSetFromFontello(fontelloConfig);
 
 export const colors = {
@@ -11,6 +11,7 @@ export const colors = {
   boldPurple: '#381C61',
   gold: '#FEB32A',
   borderGray: 'rgba(112,112,112,0.35)',
+  mainWhite: '#f7fff7',
 };
 export const fonts = {
   basic: {
